@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Librero", "Librero\Librero.vbproj", "{7B48D9BA-27D5-40B6-904D-425694C52064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B48D9BA-27D5-40B6-904D-425694C52064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B48D9BA-27D5-40B6-904D-425694C52064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B48D9BA-27D5-40B6-904D-425694C52064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B48D9BA-27D5-40B6-904D-425694C52064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81832F75-D67E-4CFA-BE61-16B087B1B2F5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,44 @@
+C:\Users\sec200903_0101\source\repos\Librero\Librero\bin\Debug\Librero.exe.config
+C:\Users\sec200903_0101\source\repos\Librero\Librero\bin\Debug\Librero.exe
+C:\Users\sec200903_0101\source\repos\Librero\Librero\bin\Debug\Librero.pdb
+C:\Users\sec200903_0101\source\repos\Librero\Librero\bin\Debug\Librero.xml
+C:\Users\sec200903_0101\source\repos\Librero\Librero\obj\Debug\Librero.vbprojAssemblyReference.cache
+C:\Users\sec200903_0101\source\repos\Librero\Librero\obj\Debug\Librero.Resources.resources
+C:\Users\sec200903_0101\source\repos\Librero\Librero\obj\Debug\Librero.vbproj.GenerateResource.cache
+C:\Users\sec200903_0101\source\repos\Librero\Librero\obj\Debug\Librero.vbproj.CoreCompileInputs.cache
+C:\Users\sec200903_0101\source\repos\Librero\Librero\obj\Debug\Librero.exe
+C:\Users\sec200903_0101\source\repos\Librero\Librero\obj\Debug\Librero.xml
+C:\Users\sec200903_0101\source\repos\Librero\Librero\obj\Debug\Librero.pdb
+C:\Users\sec200903_0101\Desktop\Librero\Librero\bin\Debug\Librero.exe.config
+C:\Users\sec200903_0101\Desktop\Librero\Librero\bin\Debug\Librero.exe
+C:\Users\sec200903_0101\Desktop\Librero\Librero\bin\Debug\Librero.pdb
+C:\Users\sec200903_0101\Desktop\Librero\Librero\bin\Debug\Librero.xml
+C:\Users\sec200903_0101\Desktop\Librero\Librero\obj\Debug\Librero.vbprojAssemblyReference.cache
+C:\Users\sec200903_0101\Desktop\Librero\Librero\obj\Debug\Librero.Resources.resources
+C:\Users\sec200903_0101\Desktop\Librero\Librero\obj\Debug\Librero.vbproj.GenerateResource.cache
+C:\Users\sec200903_0101\Desktop\Librero\Librero\obj\Debug\Librero.vbproj.CoreCompileInputs.cache
+C:\Users\sec200903_0101\Desktop\Librero\Librero\obj\Debug\Librero.exe
+C:\Users\sec200903_0101\Desktop\Librero\Librero\obj\Debug\Librero.xml
+C:\Users\sec200903_0101\Desktop\Librero\Librero\obj\Debug\Librero.pdb
+C:\Users\sec200903_0101\Desktop\Librero Martin Servidio 6º6º\Librero\bin\Debug\Librero.exe.config
+C:\Users\sec200903_0101\Desktop\Librero Martin Servidio 6º6º\Librero\bin\Debug\Librero.exe
+C:\Users\sec200903_0101\Desktop\Librero Martin Servidio 6º6º\Librero\bin\Debug\Librero.pdb
+C:\Users\sec200903_0101\Desktop\Librero Martin Servidio 6º6º\Librero\bin\Debug\Librero.xml
+C:\Users\sec200903_0101\Desktop\Librero Martin Servidio 6º6º\Librero\obj\Debug\Librero.vbprojAssemblyReference.cache
+C:\Users\sec200903_0101\Desktop\Librero Martin Servidio 6º6º\Librero\obj\Debug\Librero.Resources.resources
+C:\Users\sec200903_0101\Desktop\Librero Martin Servidio 6º6º\Librero\obj\Debug\Librero.vbproj.GenerateResource.cache
+C:\Users\sec200903_0101\Desktop\Librero Martin Servidio 6º6º\Librero\obj\Debug\Librero.vbproj.CoreCompileInputs.cache
+C:\Users\sec200903_0101\Desktop\Librero Martin Servidio 6º6º\Librero\obj\Debug\Librero.exe
+C:\Users\sec200903_0101\Desktop\Librero Martin Servidio 6º6º\Librero\obj\Debug\Librero.xml
+C:\Users\sec200903_0101\Desktop\Librero Martin Servidio 6º6º\Librero\obj\Debug\Librero.pdb
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Librero Martin Servidio 6º6º\Librero\bin\Debug\Librero.exe.config
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Librero Martin Servidio 6º6º\Librero\bin\Debug\Librero.exe
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Librero Martin Servidio 6º6º\Librero\bin\Debug\Librero.pdb
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Librero Martin Servidio 6º6º\Librero\bin\Debug\Librero.xml
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Librero Martin Servidio 6º6º\Librero\obj\Debug\Librero.vbprojAssemblyReference.cache
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Librero Martin Servidio 6º6º\Librero\obj\Debug\Librero.Resources.resources
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Librero Martin Servidio 6º6º\Librero\obj\Debug\Librero.vbproj.GenerateResource.cache
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Librero Martin Servidio 6º6º\Librero\obj\Debug\Librero.vbproj.CoreCompileInputs.cache
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Librero Martin Servidio 6º6º\Librero\obj\Debug\Librero.exe
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Librero Martin Servidio 6º6º\Librero\obj\Debug\Librero.xml
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Librero Martin Servidio 6º6º\Librero\obj\Debug\Librero.pdb
